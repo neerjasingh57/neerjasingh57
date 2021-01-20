@@ -1,9 +1,9 @@
 ### Hi there, I'm Neerja Singh! 👋
 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I have a black belt in Taekwondo.
 - 🔭 I’m currently working on developing my SQL skills.
 - 🌱 I’m currently studying Marketing Analytics at the University of Maryland.
+- ⚡ Fun fact: I have a black belt in Taekwondo.
 - 📫 How to reach me: neerja.singh@marylandsmith.umd.edu; https://www.linkedin.com/in/neerja-singh-100/; https://neerja-singh.com
 
 
