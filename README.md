@@ -1,8 +1,8 @@
 ### Hi there, I'm Neerja Singh! 👋
 
 - 😄 Pronouns: she/her
-- 🔭 I’m currently working on developing my SQL skills.
-- 🌱 I’m recently graduated with an MS in Marketing Analytics from the University of Maryland.
+- 🔭 I’m currently open to new opportunities.
+- 🌱 Senior Analyst at MediaCom.
 - ⚡ Fun fact: I have a black belt in Taekwondo.
 - 📫 How to reach me: https://www.linkedin.com/in/neerja-singh-100/
 
